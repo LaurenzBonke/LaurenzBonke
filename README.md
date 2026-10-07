@@ -26,10 +26,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenzBonke&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🐍 Contributions
+### 👾 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaurenzBonke/LaurenzBonke/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaurenzBonke/LaurenzBonke/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/LaurenzBonke/LaurenzBonke/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaurenzBonke/LaurenzBonke/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaurenzBonke/LaurenzBonke/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/LaurenzBonke/LaurenzBonke/output/pacman-contribution-graph.svg" />
 </picture>
