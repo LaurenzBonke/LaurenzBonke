@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Laurenz+%F0%9F%91%8B;IT+Student+%C2%B7+Full-Stack+Developer;Building+practical+software+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-
 📍 Germany - 🎓 19-year-old IT student - ⚽ Sports enthusiast
 
 </div>
