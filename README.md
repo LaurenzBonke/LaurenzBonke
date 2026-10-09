@@ -1,6 +1,6 @@
 <div align="center">
 
-📍 Germany - 🎓 19-year-old IT student - ⚽ Sports enthusiast
+📍 Germany,NRW - 🎓 19-year-old IT student - ⚽ Sports enthusiast
 
 </div>
 
